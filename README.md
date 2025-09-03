@@ -18,7 +18,9 @@ E)File Format - .pbix for development and .png for dashboard previews.
 3.Data source : Flat files (CSV file)
 
 4.Features/Highlights :
+
      A.Business Problems:
+     
        1.Who are our most profitable customers by region and segment?
        2.What is the return rate per customer or segment?
        3.Which customers buy most frequently or have the highest order values?
@@ -26,6 +28,7 @@ E)File Format - .pbix for development and .png for dashboard previews.
        5.Are certain customer types more likely to return items?
        
     B.Business Objectives :
+    
        1.Identify and classify customers into strategic segments based on profitability and return history?
        2.Analyze customer purchase frequency,average order value and lifetime value.
        3.Highlight key characteristics of top-performing and underperforming customer groups.
